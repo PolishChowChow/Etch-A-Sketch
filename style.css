@@ -1,0 +1,49 @@
+header{
+    font-family: 'Island Moments', cursive;
+}
+h2{
+    text-align: center;
+    font-size: 100px;
+    margin-top: 40px;
+}
+h4{
+    text-align: center;
+}
+h4 em{
+    font-size: 48px;
+    font-weight: 100;
+}
+button{
+    width: 45%;
+    max-width: 120px;
+}
+main{
+    display: flex;
+}
+main article{
+    flex: 1;
+}
+main article{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+main article section{
+    width: 70%;
+}
+aside{
+    flex: 2;
+}
+aside .puzzles{
+    width: 512px;
+    height: 512px;
+    background: whitesmoke;
+    display: flex;
+    flex-wrap: wrap;
+}
+.basic{
+    border-radius: 5px;
+}
+.hover{
+    background-color: blue;
+}
