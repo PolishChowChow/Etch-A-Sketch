@@ -1,2 +1,2 @@
-# Etch-A-Sketch
-this project assumes that what i learn about javascript and DOM. It's just a basic sketch
+# About
+This project is my summary of basic javascript concepts like DOM manipulation.
